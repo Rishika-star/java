@@ -1,0 +1,7 @@
+LinkedList<Integer>repeated=new LinkedList<>();
+HasSet<Integer> seen=new HasSet<>();
+HashSet<Integer> added=new HashSet<>();
+
+for(int id:orderHistory){
+    if(seen)
+}
