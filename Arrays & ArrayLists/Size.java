@@ -9,5 +9,10 @@ public class Size{
     list.add(5);
     list.add(6);
     System.out.println(list.size());
+
+    for(int i=0;i<list.size();i++){
+        System.out.print(list.get(i)+" ");
+    }
+    System.out.println();
     }
 }
